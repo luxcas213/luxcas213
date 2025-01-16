@@ -47,4 +47,5 @@
 ## 📬 Contacto
 
 - 🕊️ [lgarbate@gmail.com](mailto:lgarbate@gmail.com)
-- 🔗 [LinkedIn]([[https://www.linkedin.com/in/lucas](https://www.linkedin.com/in/lucas-garbate-234426335/)](https://www.linkedin.com/in/lucas-garbate-234426335/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-garbate-234426335/)
+
