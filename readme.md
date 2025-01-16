@@ -7,7 +7,7 @@
 - ⭐ Full Stack Developer ⭐ 
 - 🌐 Web Developer
 - 🎮 Game Developer
-- 🤖 IA Enthusiast
+- 🤖 AI Enthusiast
 - Software Engineering ⚙️
 
 
