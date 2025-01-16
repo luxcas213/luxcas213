@@ -20,3 +20,9 @@
     <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luxcas213&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+## 📬 Contacto
+
+Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a [lgarbate@gmail.com](mailto:lgarbate@gmail.com) o conectarme a través de LinkedIn:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lucas)
