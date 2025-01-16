@@ -3,7 +3,7 @@
 </div>
 
 ## Sobre mi
-
+- 🏫 Estudiante de ORT
 - ⭐ Full Stack Developer ⭐ 
 - 🌐 Web Developer
 - 🎮 Game Developer
