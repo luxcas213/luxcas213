@@ -39,8 +39,8 @@
 ## ⚙️ stats
 <p align="center">
   <a href="https://github.com/luxcas213">
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luxcas213&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luxcas213&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luxcas213&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luxcas213&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
