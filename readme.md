@@ -5,7 +5,9 @@
 ## Sobre mi
 
 - ⭐ Full Stack Developer ⭐ 
-- 📲 Mobile Developer
+- 🌐 Web Developer
+- 🎮 Game Developer
+- 🤖 IA Enthusiast
 - Software Engineering ⚙️
 <br>
 
@@ -18,4 +20,3 @@
     <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luxcas213&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
