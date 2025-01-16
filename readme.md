@@ -8,7 +8,7 @@
 - 🌐 Web Developer
 - 🎮 Game Developer
 - 🤖 AI Enthusiast
-- Software Engineering ⚙️
+- ⚙️ Software Engineering 
 
 
 ## tools
