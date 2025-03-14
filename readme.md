@@ -6,8 +6,8 @@
 - 🏫 Estudiante de ORT
 - ⭐ Full Stack Developer ⭐ 
 - 🌐 Web Developer
-- 🎮 Game Developer
 - 🤖 AI Enthusiast
+- 🎮 Game Developer
 - ⚙️ Software Engineering 
 
 
